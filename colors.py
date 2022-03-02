@@ -1,5 +1,0 @@
-color = input("Enter list of colours:")
-color_list = color.split(",")
-print(color_list)
-print("First color:", color_list[0])
-print("Last color:", color_list[-1])
